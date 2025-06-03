@@ -1,0 +1,5 @@
+transformers
+sentence-transformers
+gradio
+torch
+numpy
